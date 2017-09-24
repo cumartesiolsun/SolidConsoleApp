@@ -1,0 +1,7 @@
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.InterfaceSegregation\bin\Debug\SolidConsoleApp.InterfaceSegregation.exe.config
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.InterfaceSegregation\bin\Debug\SolidConsoleApp.InterfaceSegregation.exe
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.InterfaceSegregation\bin\Debug\SolidConsoleApp.InterfaceSegregation.pdb
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.InterfaceSegregation\obj\Debug\SolidConsoleApp.InterfaceSegregation.csprojResolveAssemblyReference.cache
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.InterfaceSegregation\obj\Debug\SolidConsoleApp.InterfaceSegregation.csproj.CoreCompileInputs.cache
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.InterfaceSegregation\obj\Debug\SolidConsoleApp.InterfaceSegregation.exe
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.InterfaceSegregation\obj\Debug\SolidConsoleApp.InterfaceSegregation.pdb

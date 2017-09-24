@@ -1,0 +1,11 @@
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp\bin\Debug\SolidConsoleApp.exe.config
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp\bin\Debug\SolidConsoleApp.exe
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp\bin\Debug\SolidConsoleApp.pdb
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp\bin\Debug\PostSharp.dll
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp\bin\Debug\PostSharp.xml
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp\bin\Debug\SolidConsoleApp.pssym
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp\obj\Debug\SolidConsoleApp.SingleResponsibility.csproj.CoreCompileInputs.cache
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp\obj\Debug\SolidConsoleApp.exe.postsharp
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp\obj\Debug\SolidConsoleApp.exe
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp\obj\Debug\SolidConsoleApp.pdb
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp\obj\Debug\PostSharpHost.config

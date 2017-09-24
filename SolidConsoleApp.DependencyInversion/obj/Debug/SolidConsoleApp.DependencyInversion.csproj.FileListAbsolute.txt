@@ -1,0 +1,7 @@
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.DependencyInversion\bin\Debug\SolidConsoleApp.DependencyInversion.exe.config
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.DependencyInversion\bin\Debug\SolidConsoleApp.DependencyInversion.exe
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.DependencyInversion\bin\Debug\SolidConsoleApp.DependencyInversion.pdb
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.DependencyInversion\obj\Debug\SolidConsoleApp.DependencyInversion.csprojResolveAssemblyReference.cache
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.DependencyInversion\obj\Debug\SolidConsoleApp.DependencyInversion.csproj.CoreCompileInputs.cache
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.DependencyInversion\obj\Debug\SolidConsoleApp.DependencyInversion.exe
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.DependencyInversion\obj\Debug\SolidConsoleApp.DependencyInversion.pdb

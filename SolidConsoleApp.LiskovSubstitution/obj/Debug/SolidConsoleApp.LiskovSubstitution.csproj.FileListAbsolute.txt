@@ -1,0 +1,7 @@
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.LiskovSubstitution\bin\Debug\SolidConsoleApp.LiskovSubstitution.exe.config
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.LiskovSubstitution\bin\Debug\SolidConsoleApp.LiskovSubstitution.exe
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.LiskovSubstitution\bin\Debug\SolidConsoleApp.LiskovSubstitution.pdb
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.LiskovSubstitution\obj\Debug\SolidConsoleApp.LiskovSubstitution.csproj.CoreCompileInputs.cache
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.LiskovSubstitution\obj\Debug\SolidConsoleApp.LiskovSubstitution.exe
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.LiskovSubstitution\obj\Debug\SolidConsoleApp.LiskovSubstitution.pdb
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.LiskovSubstitution\obj\Debug\SolidConsoleApp.LiskovSubstitution.csprojResolveAssemblyReference.cache

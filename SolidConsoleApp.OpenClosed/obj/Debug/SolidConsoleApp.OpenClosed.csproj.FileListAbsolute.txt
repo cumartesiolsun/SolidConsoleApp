@@ -1,0 +1,6 @@
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.OpenClosed\bin\Debug\SolidConsoleApp.OpenClosed.exe.config
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.OpenClosed\bin\Debug\SolidConsoleApp.OpenClosed.exe
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.OpenClosed\bin\Debug\SolidConsoleApp.OpenClosed.pdb
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.OpenClosed\obj\Debug\SolidConsoleApp.OpenClosed.csproj.CoreCompileInputs.cache
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.OpenClosed\obj\Debug\SolidConsoleApp.OpenClosed.exe
+D:\Projeler\_TestArge\solid\SolidConsoleApp\SolidConsoleApp.OpenClosed\obj\Debug\SolidConsoleApp.OpenClosed.pdb

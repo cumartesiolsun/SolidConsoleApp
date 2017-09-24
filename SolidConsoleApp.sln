@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidConsoleApp.SingleResponsibility", "SolidConsoleApp\SolidConsoleApp.SingleResponsibility.csproj", "{53BA3221-E73A-453E-9BEF-F63AE38FD3D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidConsoleApp.OpenClosed", "SolidConsoleApp.OpenClosed\SolidConsoleApp.OpenClosed.csproj", "{77188B1C-8997-4C92-A571-B312F8D7BA09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidConsoleApp.LiskovSubstitution", "SolidConsoleApp.LiskovSubstitution\SolidConsoleApp.LiskovSubstitution.csproj", "{AAFBC5B3-EE50-41EB-9039-1C6A9C5C98B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidConsoleApp.InterfaceSegregation", "SolidConsoleApp.InterfaceSegregation\SolidConsoleApp.InterfaceSegregation.csproj", "{67B9C978-1795-40E7-A500-26698C0AB64F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidConsoleApp.DependencyInversion", "SolidConsoleApp.DependencyInversion\SolidConsoleApp.DependencyInversion.csproj", "{384FF780-CD1C-47C6-BD0E-9E8F0B7A73F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53BA3221-E73A-453E-9BEF-F63AE38FD3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BA3221-E73A-453E-9BEF-F63AE38FD3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BA3221-E73A-453E-9BEF-F63AE38FD3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BA3221-E73A-453E-9BEF-F63AE38FD3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77188B1C-8997-4C92-A571-B312F8D7BA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77188B1C-8997-4C92-A571-B312F8D7BA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77188B1C-8997-4C92-A571-B312F8D7BA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77188B1C-8997-4C92-A571-B312F8D7BA09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAFBC5B3-EE50-41EB-9039-1C6A9C5C98B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFBC5B3-EE50-41EB-9039-1C6A9C5C98B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFBC5B3-EE50-41EB-9039-1C6A9C5C98B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFBC5B3-EE50-41EB-9039-1C6A9C5C98B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B9C978-1795-40E7-A500-26698C0AB64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B9C978-1795-40E7-A500-26698C0AB64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B9C978-1795-40E7-A500-26698C0AB64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B9C978-1795-40E7-A500-26698C0AB64F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384FF780-CD1C-47C6-BD0E-9E8F0B7A73F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384FF780-CD1C-47C6-BD0E-9E8F0B7A73F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384FF780-CD1C-47C6-BD0E-9E8F0B7A73F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384FF780-CD1C-47C6-BD0E-9E8F0B7A73F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D19827C-09F6-4F84-B185-42A2425E1901}
+	EndGlobalSection
+EndGlobal
